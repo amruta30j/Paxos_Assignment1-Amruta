@@ -22,7 +22,8 @@ import java.util.Map;
 
 
 /**
- * Created by amrutaj on 17/12/2018.
+ * Created by amrutaj on 17/12/2018.(Was about to write the junits using the spring test framework. However, due to config issues 
+ it was not possible.)
  */
 @RunWith(MockitoJUnitRunner.Silent.class)
 public class Hash256ComputationServiceImplTest {
